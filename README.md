@@ -1,4 +1,4 @@
-# Deep learning for sodium MRI deblurring and denoising (2020)#
+# Deep learning for sodium MRI deblurring and denoising (2020) #
 
 
 This is a tool for processing sodium MRI using deep learning. In its current stage the code implements deblurring and denoising functionalities using convolutional neural networks (CNN). However, the code can serve as base for implementing other types of MRI processing. 
